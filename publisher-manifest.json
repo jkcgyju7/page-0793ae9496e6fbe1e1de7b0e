@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "741e0be6730171f73e574078",
+  "owner": "jkcgyju7",
+  "repo": "page-0793ae9496e6fbe1e1de7b0e",
+  "title": "极速火箭",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0793ae9496e6fbe1e1de7b0e",
+      "a": "极速火箭",
+      "b": "2027最新官网",
+      "entity": "极速火箭",
+      "brand": "极速火箭",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0284f346c6f8a5602fe60aa44f791212ae206ea8e5bdfa46edaf01e2047e1f6b",
+      "content": {
+        "primary_entity": "极速火箭",
+        "keyword1": "极速火箭",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐、导入订阅，让极速火箭在常用设备上稳定运行。",
+          "AI_CLOSING_TITLE": "让加速更贴近日常",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助快速匹配基础版、旗舰版或团队版，并完成客户端导入与日常使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期入手，选择更匹配的方案。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，适合多终端同时使用。",
+          "AI_FEATURE_TEXT_3": "按年付基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按设备定方案",
+          "AI_FEATURE_TITLE_3": "按周期看价格",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备适配，最后导入订阅开始使用。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "极速火箭提供基础、旗舰与团队三档海外加速套餐，覆盖不同流量和设备需求，按客户端说明配置订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "海外加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多设备订阅支持",
+          "AI_HIGHLIGHT_3": "按年付更省预算",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合多设备与流媒体，团队版适合高流量多终端场景。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量，在基础版、旗舰版、团队版中确定合适方案。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备上限、流媒体解锁与线路类型，确认符合自身需求。",
+          "AI_STEP_TEXT_3": "在对应客户端导入订阅配置，按客户端文档完成连接与日常使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "极速火箭加速方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按用量和设备数选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版适合单人轻度使用；旗舰版有 IPLC 专线与原生流媒体解锁，适合影音和游戏；团队版适合多人多设备共享。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。设备多就选团队版，设备少基础版足够。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅导入入口，填入订阅地址并更新即可。不同客户端位置略有差异，可参照对应客户端文档操作。",
+          "AI_FAQ_ANSWER_5": "套餐按月计费，也提供年付选项，如基础版按年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用年付更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐的流量和设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要差别在哪里？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量怎么选？",
+          "AI_FAQ_QUESTION_4": "订阅配置在客户端里怎么导入？",
+          "AI_FAQ_QUESTION_5": "计费周期有哪些，年付划算吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrx83ccrjnyy.com",
+    "host": "xn--yfrx83ccrjnyy.com"
+  },
+  "file_hashes": {
+    "index.html": "c2af8193faffbb08aeb3c23b7092e609349b3eb1244e87b3bbe85f4a4254ef41",
+    "sitemap.xml": "a3c9dc8137421f46d94d17ef19fc1299e1988c2d84cc335607edd6c1cb04ded3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d7cbf4aedaf6ff3d407dca39a23440cf95377bc0bf663b4093263858c69ed88b",
+    "robots.txt": "12eaaf0b7b49f40dce9e923b54a4aaf627d6e172c2f7d573ec5c8f30f862d851",
+    "91d137a683477d7e0679d53cee953b8c.txt": "95248961d31cafc46d1a5e70d9e62a2b082d7a41da9ea7a6d30becacd49b63bb"
+  },
+  "revision": "da86fb931ead54d1c3b96a5dc2cd96cdecb8380fb07e0d910feb279cfb2c25b8"
+}
